@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/newVideoTableRow"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@android:color/transparent" >
+
+    <Button
+        android:id="@+id/Entry"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/rounded_btn_background"
+        android:textColor="#575757" />
+
+    <Button
+        android:id="@+id/btnNewDelete"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/rounded_btn_background"
+        android:text="@string/delete"
+        android:textColor="#575757"  />
+
+</TableRow>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Who Borrowed It?</string>
+    <string name="queryItem">new Item</string>
+    <string name="edit">Edit</string>
+    <string name="clearFavorite">Show Activity</string>
+    <string name="save">Save</string>
+    <string name="erase">Erase</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="missingText">Missing Value</string>
+    <string name="missingMessage">Please enter a new item to be lent out</string>
+    <string name="confirmTitle">Are You Sure?</string>
+    <string name="confirmMessage">This will delete all saved searches</string>
+    <string name="appTitle">To help you remember who has your stuff</string>
+    <string name="personQuery">New Person</string>
+    <string name="delete">Delete</string>
+    <string name="txtNewPerson">Add Person</string>
+    <string name="txtNewItem">Add Item</string>
+    <string name="txtAssign">Lend Item</string>
+    <string name="txtViewItems">View Items</string>
+    <string name="txtViewPeople">View People</string>
+    <string name="txtMainView">Main View</string>
+    <string name="queryPhone">Phone Number</string>
+    <string name="assign">Choose a Person and the Item they borrowed.</string>
+    <string name="choosePerson">Choose Person</string>
+    <string name="chooseItem">Choose Item</string>
+    <string name="country_prompt">Choose a person</string>
+    <string name="returned">Item was returned</string>
+    <string name="queryAssign">Assign an Item to a Person and the Date borrowed.</string>
+    <string name="sendText">Send Reminder To Return Item</string>
+    <string name="contacts">Find Person in Contacts</string>
+    <string name="historyInfo">Information about the Lend</string>
+    <string name="newItem">Add New Item</string>
+    <string name="itemTooLong">Item name must be less than 25 characters.</string>
+    <string name="noItemSelected">You must select an item and a person before saving.</string>
+    <string name="alreadyLent">Already Exists</string>
+    <string name="alreadyLentMessage">The selected person and item are already attached.</string>
+
+</resources>
